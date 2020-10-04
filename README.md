@@ -1,4 +1,4 @@
-![SolvAR Logo](/SolvARLogo.PNG)
+![SolvAR Logo](/SolvARLogo.png)
 
 Object finding AR application in Unity3D 
 
