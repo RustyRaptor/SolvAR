@@ -2,6 +2,9 @@
 
 Object finding AR application in Unity3D 
 
+Proof of working application, with realtime diagnostics from USB-C connection:
+![Image of first release](/SolvAR Working.JPG)
+
 # Installation
 1) Download Unity version 2019.4.3f1 LTS (https://unity3d.com/unity/qa/lts-releases)
 2) Include 'Android Build Support', press the arrow for the dropdown menu, and include "Android SDK & NDK Tools" and "OpenJDK" and press "DONE".
