@@ -3,7 +3,8 @@
 Object finding AR application in Unity3D 
 
 Proof of working application, with realtime diagnostics from USB-C connection:
-![Image of first release](/SolvAR Working.JPG)
+
+![Image of first release](/SolvAR Working.jpg)
 
 # Installation
 1) Download Unity version 2019.4.3f1 LTS (https://unity3d.com/unity/qa/lts-releases)
